@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Lean Principles
 
-You can use the [editor on GitHub](https://github.com/MrTortoise/LeanPrinciples/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I decided I wanted to give a talk on something.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I chose something that I have read and heard a lot about but have never really felt like I as a person have mastered.
 
-### Markdown
+The reason i chose such a thing is that the amount of work required to do a talk is fairly large so hopefully by the time I arrive at a point i feel i have something salient to contribute to the world I will be a lot further along the journey than i am now.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The title of the talk is likley to be something like
+> Failure to Lean: Killing the Strawman of Waterfail
 
-```markdown
-Syntax highlighted code block
+Not at all click bait.
 
-# Header 1
-## Header 2
-### Header 3
+It is going to essentially be an attempt to look at lots of decisions i have seen be made for great sounding reasons at the time but upon reflection seem to of led to ruin of something. Usually peoples soles and huge amounts of waste and lead times in agile companies.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### What is the purpose of these pages?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrTortoise/LeanPrinciples/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Whilst preparing I am having to go and find articles that are referenced everywhere but have actually taken me a long time to track down. So i am hoping that my efforts end up aiding others. Not that i think anyone actually goes and reads the things being referenced ....
